@@ -1,0 +1,17 @@
+[
+  {
+    "name": ".CinodeAuth",
+    "value": "CfDJ8CG1XhE-qgxJhx6D6ho8TxmoPSOtoWxPMIWsR0r6aWOVw3ENalD4MGuUX0yHQOXUTEYhTWfvQHMEJUeg-kdmJ4pmKP1J7kRZdS-zGDE1vFZgHO6TDOmcL7fNxl_s5u6lQ3-DOkXTrVEgVou7Ax3imsRpioH9kgiWCVlArheTyo6HFs-vo-hV7q5O_OrflkeU3vl5SvPdlOXXdz-1Z8qz_UoUC5_ddHbsbbTw-ueo7-LC3EJGYrUiW39YHIx6t4-6D4CbTB206S3F49Oej8nFxRLPyoxYIQN0_qVPHjPt5ZFAjxEU8qmZSa2568hlWE0-G0pHDDGqSyc7ACNBN-YKeUBsTfdYe38KZgAIRhnPiTC6n4s_bYg7SEnDtKiaF5xXluMqeYNDD5LFlVn5k0yYkYwLT-aJP-T7o-ke--tgslzpwRY5Ar6N3xHaJYQx3qufdFTiKiLSxNHc_y7toYR_81X-Al8fD26BX6QICgp98X2hrFdvxvVom6qWLk_SiLw6Wym_IOEXC7tWWnBw2T2YFRhL9Rb5sMTRiM7Crr21IMovPhNQ6Kj0wMVlnoDana26PFTfGOcwV33Dgb1vUJaaeytt5uHJfwKPldmpDdC_7evFVvUbgZI-Fq4ybv51Xmpez-gwWNGqblq6mgYeoUWfEzImV69GLzs3iZNgRK6gsysP",
+    "domain": "app.cinode.com",
+    "path": "/",
+    "expires": -1,
+    "size": 699,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]
